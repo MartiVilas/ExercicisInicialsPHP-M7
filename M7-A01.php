@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exercicis inicials</title>
+    <title>Exercicis inicials M7-A01</title>
 </head>
 <body>
     <ol>
