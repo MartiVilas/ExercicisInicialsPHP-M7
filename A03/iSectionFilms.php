@@ -1,11 +1,25 @@
-<div class="main--container">
+<header id="header" class="main--header">
+        <img class="header--logo" src="./src/logo.png" alt="Logotipo de ITBFlix">
+        
+        <nav id="nav">
+            <ul class="nav--list">
+                <li><a href="./index.php">Inicio</a></li>
+                <li><a href="./films.php">Películas</a></li>
+                <li><a href="./index.php#series-section">Series</a></li>
+                <li><a href="./index.php#most-viewed-section">Lo más visto</a></li>
+                <li><a href="./login.php">Date de Alta</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <div class="main--container">
         <main>
             <section>
                 <h1>Catálogo de películas</h1>
                 
                 <div class="section__content">
                     <article>
-                        <a class="poster" href="./details.html">
+                        <a class="poster" href="./details.php">
                             <img class="poster-img" src="./src/posters/peliculas/it.jpg" alt="Póster de la película IT">
                             <div class="poster-info">
                                 <h2>IT</h2>
@@ -20,7 +34,7 @@
                     </article>
 
                     <article>
-                        <a class="poster" href="./details.html">
+                        <a class="poster" href="./details.php">
                             <img class="poster-img" src="./src/posters/peliculas/spiderman-no-way-home.jpg" alt="Póster de la película Spider-Man No Way Home">
                             <div class="poster-info">
                                 <h2>Spider-Man No Way Home</h2>
@@ -35,7 +49,7 @@
                     </article>
 
                     <article>
-                        <a class="poster" href="./details.html">
+                        <a class="poster" href="./details.php">
                             <img class="poster-img" loading="lazy" src="./src/posters/peliculas/lobo-wall-street.jpg" alt="Póster de la película El Lobo de Wall Street">
                             <div class="poster-info">
                                 <h2>El Lobo de Wall Street</h2>
@@ -50,7 +64,7 @@
                     </article>
 
                     <article>
-                        <a class="poster" href="./details.html">
+                        <a class="poster" href="./details.php">
                             <img class="poster-img" loading="lazy" src="./src/posters/peliculas/wonder.jpg" alt="Póster de la película Wonder">
                             <div class="poster-info">
                                 <h2>Wonder</h2>
@@ -65,7 +79,7 @@
                     </article>
 
                     <article>
-                        <a class="poster" href="./details.html">
+                        <a class="poster" href="./details.php">
                             <img class="poster-img" loading="lazy" src="./src/posters/peliculas/joker.jpg" alt="Póster de la película Joker">
                             <div class="poster-info">
                                 <h2>Joker</h2>
@@ -80,7 +94,7 @@
                     </article>
                     
                     <article>
-                        <a class="poster" href="./details.html">
+                        <a class="poster" href="./details.php">
                             <img class="poster-img" loading="lazy" src="./src/posters/peliculas/pitufos-2.jpg" alt="Póster de la película Los Pitufos 2">
                             <div class="poster-info">
                                 <h2>Los Pitufos 2</h2>
@@ -95,7 +109,7 @@
                     </article>
 
                     <article>
-                        <a class="poster" href="./details.html">
+                        <a class="poster" href="./details.php">
                             <img class="poster-img" loading="lazy" src="./src/posters/peliculas/avatar-el-sentido-del-agua.jpg" alt="Póster de la película Avatar: El sentido del agua">
                             <div class="poster-info">
                                 <h2>Avatar: El sentido del agua</h2>
@@ -110,7 +124,7 @@
                     </article>
 
                     <article>
-                        <a class="poster" href="./details.html">
+                        <a class="poster" href="./details.php">
                             <img class="poster-img" loading="lazy" src="./src/posters/peliculas/sin-novedad-en-el-frente.jpg" alt="Póster de la película Sin Novedad en el Frente">
                             <div class="poster-info">
                                 <h2>Sin Novedad en el Frente</h2>

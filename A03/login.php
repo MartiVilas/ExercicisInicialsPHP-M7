@@ -1,7 +1,5 @@
 <?php
-include("iHeader.php");
-include("iNav.php");
+include("iHeaderLogin.php");
 include("iSectionLogin.php");
 include("iFooter.php");
-
 ?>

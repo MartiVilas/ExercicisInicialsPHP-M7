@@ -1,6 +1,5 @@
 <?php
-include("iHeader.php");
-include("iNav.php");
+include("iHeadFilms.php");
 include("iSectionFilms.php");
 include("iFooter.php");
 
