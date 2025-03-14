@@ -18,5 +18,10 @@
         <li><a href="A02/exercici1.php">Exercici 1</a></li>
         <li><a href="A02/exercici2.php">Exercici 2</a></li>
     </ol>
+    <h1>A03 - (INCLUDES)</h1>
+    <ol>
+        <li><a href="A03/exercici1.php">Exercici 1</a></li>
+        <li><a href="A03/exercici2.php">Exercici 2</a></li>
+    </ol>
 </body>
 </html>
