@@ -22,5 +22,10 @@
     <ol>
         <li><a href="A03/index.php">Exercici 1</a></li>
     </ol>
+    <h1>A04 - Comunicació entre pàgines </h1>
+    <ol>
+        <li><a href="A04/index.php">Exercici 1</a></li>
+    </ol>
+    
 </body>
 </html>
